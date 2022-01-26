@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1626418927 source:d:\3 semester\algorithms\sort\insertion sort\insertion_sort_objects\main.cpp
+	<iostream>
+	"library_objects.h"
+
+1626418575 d:\3 semester\algorithms\sort\insertion sort\insertion_sort_objects\library_objects.h
+	<iostream>
+	<string>
+

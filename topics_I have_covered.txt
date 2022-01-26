@@ -1,0 +1,47 @@
+measuring the performance
+	std::chrono
+	c clock_gettime
+	windows.h -> QueryPerformanceCounter
+
+generating random data
+	srand -> rand()
+	#include <random> -> std::mt119937	
+
+measuring the right thing
+
+complexity classes
+	Big O
+	Big theta
+	Big 
+
+Big O notation
+
+best-average-worst cases
+
+sorting slowly
+	Bubble    Sort
+	Insertion Sort
+	Selection Sort
+
+MergeSort
+	recursive
+	iterative
+
+QuickSort
+	pivot_beginining
+	pivot_ending
+	pivot_middle
+	pivot_random
+	pivot_median
+
+HeapSort
+
+Data structures
+	Tree
+	Binary Tree        (insertion, deletion, search)
+	Binary Search Tree (insertion, deletion, search)
+	AVL tree           (insertion, deletion, search)
+	Red Black Tree
+	B Tree
+
+	Heaps

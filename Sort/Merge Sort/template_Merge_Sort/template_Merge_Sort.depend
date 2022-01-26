@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1627833286 source:d:\3 semester\algorithms\sort\merge sort\template_merge_sort\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

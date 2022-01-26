@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1626253023 source:d:\3 semester\algorithms\sort\insertion sort\left - to - right\ascending_number_2\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
